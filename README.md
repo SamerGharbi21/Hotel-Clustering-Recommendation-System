@@ -1,10 +1,10 @@
-# 🏨 Hotel Clustering Recommendation System
+#Hotel Clustering Recommendation System
 
 An end-to-end Machine Learning project that analyzes hotel data, performs clustering using K-Means and DBSCAN, and provides hotel cluster predictions through an interactive Streamlit application.
 
 ---
 
-## 📌 Project Overview
+##Project Overview
 
 This project aims to group hotels into meaningful clusters based on multiple features such as:
 
@@ -22,7 +22,7 @@ The clustering helps users understand hotel categories and similarities without 
 
 ---
 
-## 🚀 Features
+##Features
 
 - ✅ Web Scraping using Selenium
 - ✅ Data Cleaning & Preprocessing
@@ -35,7 +35,7 @@ The clustering helps users understand hotel categories and similarities without 
 
 ---
 
-## 🛠️ Technologies Used
+##Technologies Used
 
 - Python
 - Pandas
@@ -49,7 +49,7 @@ The clustering helps users understand hotel categories and similarities without 
 
 ---
 
-## 📂 Project Structure
+##Project Structure
 
 ```text
 Hotel-Clustering-Recommendation-System
@@ -76,7 +76,7 @@ Hotel-Clustering-Recommendation-System
 
 ---
 
-## ⚙️ Installation
+##Installation
 
 Clone the repository
 
@@ -98,7 +98,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📊 Machine Learning Pipeline
+##Machine Learning Pipeline
 
 1. Data Collection
 2. Data Cleaning
@@ -112,13 +112,13 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📈 Results
+##Results
 
 The model successfully groups hotels into meaningful clusters that can be used for recommendation systems and customer segmentation.
 
 ---
 
-## 👨‍💻 Author
+##Author
 
 **Samer Gharbi**
 
